@@ -55,11 +55,11 @@ background-repeat: no-repeat;
 }
 .palo{
 
-background-color: black;
-width: 3vw;
-height: 18vw;
-margin-left: 49vw;
-display: inline;
-
-
+    background-color: black;
+    width: 20px;
+    height: 18vw;
+    margin-left: 49vw;
+    display: inline;
 }
+
+
