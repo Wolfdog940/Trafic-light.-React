@@ -1,10 +1,23 @@
+body{
+background-image: url("https://img.freepik.com/vector-premium/trafico-ciudad-constantemente-atascado-mientras-llueve_353206-532.jpg?w=2000");
+background-repeat: no-repeat;
+  
+  height: 100vp;
 
+
+}
 .semaforo {
   background-color: black;
- 
+  border-radius: 10%;
   padding: 10px;
   display: inline-block;
+  margin-top: 18vw;
   
+}
+.trafic{
+    display: flex;
+   
+    justify-content: center;
 }
 
 .light {
@@ -39,4 +52,14 @@
 .glowgreen {
   background-color: rgb(33, 233, 33);
   box-shadow: 0px 0px 9px 4px rgb(10, 221, 10);
+}
+.palo{
+
+background-color: black;
+width: 3vw;
+height: 18vw;
+margin-left: 49vw;
+display: inline;
+
+
 }
