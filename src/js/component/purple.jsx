@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 
-const Purple = ({ mostar }) => {
-  const [newColor, setNewColor] = useState("");
+const Purple = ({ mostar,setNewColor,newColor }) => {
+
 
   return (
     <div>

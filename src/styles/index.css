@@ -89,3 +89,10 @@ button{
   margin: auto;
   margin-top: 10px;
 }
+.automatico{
+  display: flex;
+  
+  justify-content:center;
+
+
+}
