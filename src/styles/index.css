@@ -1,11 +1,11 @@
 body{
-background-image: url("https://img.freepik.com/vector-premium/trafico-ciudad-constantemente-atascado-mientras-llueve_353206-532.jpg?w=2000");
-background-repeat: no-repeat;
+  background-image: url("https://img.freepik.com/vector-premium/trafico-ciudad-constantemente-atascado-mientras-llueve_353206-532.jpg?w=2000");
+  background-repeat: no-repeat;
+    
+    height: 100vp;
   
-  height: 100vp;
-
-
-}
+  
+  }
 .semaforo {
   background-color: black;
   border-radius: 10%;
@@ -39,6 +39,11 @@ background-repeat: no-repeat;
   background-color: rgba(17, 194, 17, 0.616);
 }
 
+.purple{
+
+  background-color: rgba(128, 0, 128, 0.623);
+}
+
 .glowred {
   background-color: red;
   box-shadow: 0px 0px 9px 4px #f80d04;
@@ -53,6 +58,16 @@ background-repeat: no-repeat;
   background-color: rgb(33, 233, 33);
   box-shadow: 0px 0px 9px 4px rgb(10, 221, 10);
 }
+
+
+.glowpurple{
+
+background-color: purple;
+box-shadow: purple;
+
+
+}
+
 .palo{
 
     background-color: black;
