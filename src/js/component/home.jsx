@@ -35,8 +35,8 @@ const Home = () => {
         
       
     </div>
-     <button type="button" className="btn btn-success " onClick={()=>setShow(true)}>Show Purple</button>
-     <button type="button" className="btn btn-danger " onClick={()=>setShow(false)}>Hide Purple</button>
+     <div className="butons"><button type="button" className="btn btn-success " onClick={()=>setShow(true)}>Show Purple</button>
+     <button type="button" className="btn btn-danger " onClick={()=>setShow(false)}>Hide Purple</button></div>
      </div>
   );
 };
