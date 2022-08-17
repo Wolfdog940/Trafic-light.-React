@@ -62,8 +62,8 @@ body{
 
 .glowpurple{
 
-background-color: purple;
-box-shadow: purple;
+background-color: rgb(203, 46, 203);
+box-shadow:0px 0px 9px 4px rgb(244, 22, 241);
 
 
 }
